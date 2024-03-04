@@ -1,0 +1,14 @@
+git init
+touch .gitignore (add node_modules and .env)
+
+npm init -y
+npm install express dotenv
+
+git status (no node_modules or .env)
+git add .
+git commit -m "blahblahblah"
+
+mkdir views
+mkdir views/layouts
+touch views/layouts/default.jsx
+touch views/index.jsx
