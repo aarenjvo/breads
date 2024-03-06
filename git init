@@ -12,3 +12,11 @@ mkdir views
 mkdir views/layouts
 touch views/layouts/default.jsx
 touch views/index.jsx
+
+ternary: if else statement in one line
+
+CRUD
+Create
+Read
+Update
+Delete
